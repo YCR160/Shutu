@@ -5,7 +5,11 @@ An automatic problem solving program for an intelligence game
 
 题目例子：
 
+<img src="QQ图片20220923212430.jpg" width="360" height="399">
+
 解决完成：
+
+<img src="QQ图片20220923212435.jpg" width="360" height="800"> <img src="QQ图片20220923212439.jpg" width="360" height="800">
 
 当然，可以使用暴力的方法，不过通过观察得知，题目和另一个益智游戏数独类似，可能存在一些恒定状态的位置，通过这些已知状态的位置，可以有效减少未知位置的状态数，最终确定所有格子的状态。
 
