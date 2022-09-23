@@ -1,5 +1,5 @@
 # Shutu
-An automatic problem solving program for intelligence games
+An automatic problem solving program for an intelligence game
 
 有一个这样的益智游戏，每行和每列标注出连续的填充格子数，目标是还原出原始图像
 
