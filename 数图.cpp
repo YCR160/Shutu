@@ -110,19 +110,19 @@ void search(){
     for(int i=1;i<=20&&ans;i++){
         for(int i=1;i<=N&&ans;i++){
             _try_(i,saverow,0);
-            //system("cls");
-            //cout<<i<<"行"<<endl;
-            //print();
+            system("cls");
+            cout<<i<<"行"<<endl;
+            print();
             //for(int j=1;j<=30000000;j++){a%=j;}
-            //cout<<i<<endl;       
+            cout<<i<<endl;       
         }
         for(int i=1;i<=N&&ans;i++){
             _try_(i,savecol,1);
-            //system("cls");
-            //cout<<i<<"列"<<endl;
-            //print();
+            system("cls");
+            cout<<i<<"列"<<endl;
+            print();
             //for(int j=1;j<=30000000;j++){a%=j;}
-            //cout<<i<<endl;
+            cout<<i<<endl;
         }
     }
 }
